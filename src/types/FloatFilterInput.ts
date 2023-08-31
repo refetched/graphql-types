@@ -1,3 +1,3 @@
 import { FloatNullableFilterInput } from '.';
 
-export type BaseFloatFilterInput = FloatNullableFilterInput;
+export type FloatFilterInput = FloatNullableFilterInput;
